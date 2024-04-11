@@ -5,6 +5,7 @@ https://sites.google.com/view/tedlasai/home/looktofocus-image-focus-via-image-ey
 
 ## Dataset
 Data files can be downloaded from the project page. These files allow the python simulation to be realistic as Python doesn't support fast enough computation of filter information.
+Place the files in a folder "data" at the same level as the python files.
 
 ## Code
 ### Prerequisites
