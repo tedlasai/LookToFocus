@@ -9,6 +9,7 @@ Place the files in a folder "data" at the same level as the python files.
 
 ## Code
 ### Prerequisites
+Python 3.9
 Requirements are in the requirements.txt file.
 
 ## Run
